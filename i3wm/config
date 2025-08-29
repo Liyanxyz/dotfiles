@@ -247,8 +247,7 @@ mode "$mode_gaps_outer" {
 }
 
 bindsym $mod+z exec rofi -show drun
-exec_always feh --bg-scale /home/j/Pictures/wallpaper.jpg
-
+exec_always feh --bg-fill /home/lg/Pictures/desktop.jpg
 
 # Sreen brightness controls
 # bindsym XF86MonBrightnessUp exec xbacklight -inc 20 # increase screen brightness
